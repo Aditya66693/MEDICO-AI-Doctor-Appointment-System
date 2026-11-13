@@ -1,0 +1,29 @@
+node_modules/
+dist/
+target/
+data/
+*.mv.db
+.env
+.idea/
+.vscode/
+
+# Environment and secrets
+.env*
+!.env.example
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Build files
+target/
+dist/
+node_modules/
+
+# Local databases
+data/
+*.mv.db
+
+# Local configuration
+application-local.properties
